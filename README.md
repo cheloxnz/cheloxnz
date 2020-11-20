@@ -1,8 +1,8 @@
-## Hola, soy Marcelo 👋
-#### Soy Desarrollador Web Full Stack
-![Soy Desarrollador Web Full Stack](https://elements-video-cover-images-0.imgix.net/files/4614d949-8e79-4823-84bd-9b4bd902add2/inline_image_preview.jpg?auto=compress&crop=edges&fit=crop&fm=jpeg&h=630&w=1200&s=a7b4ea0f456c67de57c0d9a22b3564c8)
+## Hi, my name is Marcelo 👋
+#### I am a full stack web developer
+![I am a full stack web developer](https://elements-video-cover-images-0.imgix.net/files/4614d949-8e79-4823-84bd-9b4bd902add2/inline_image_preview.jpg?auto=compress&crop=edges&fit=crop&fm=jpeg&h=630&w=1200&s=a7b4ea0f456c67de57c0d9a22b3564c8)
 
-Me gustan los desafíos, el plasmar lo que uno piensa en código. Me desempeño tanto en front como backend, no tengo un gusto definido, quizá me gusta más el front, pero no me disgusta trabajar en backend.
+I like challenges, to translate what one thinks in code. I perform on both front and backend, I don't have a definite taste, maybe I like the front more, but I don't dislike working on the backend.
 
 ### - 🔭 Some of my jobs: E-Commerce Shop - https://github.com/cheloxnz/Ecommerce-Tienda
 ### - 🔭 Some of my jobs: Virtual Wallet - https://github.com/cheloxnz/Proyecto-Billetera-HB
