@@ -4,7 +4,7 @@
 
 Me gustan los desafíos, el plasmar lo que uno piensa en código. Me desempeño tanto en front como backend, no tengo un gusto definido, quizá me gusta más el front, pero no me disgusta trabajar en backend.
 
-Skills: HTML / CSS / JS / REACT / NODE
+Skills:  https://www.flaticon.es/svg/static/icons/svg/174/174854.svg
 
 ### - 🔭 Some of my jobs: E-Commerce Shop - https://github.com/cheloxnz/Ecommerce-Tienda
 ### - 🔭 Some of my jobs: Virtual Wallet - https://github.com/cheloxnz/Proyecto-Billetera-HB
