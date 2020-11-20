@@ -6,14 +6,14 @@ Me gustan los desafíos, el plasmar lo que uno piensa en código. Me desempeño 
 
 Skills: HTML / CSS / JS / REACT / NODE
 
-## - 🔭 Some of my jobs: E-Commerce Shop - https://github.com/cheloxnz/Ecommerce-Tienda
-## - 🔭 Some of my jobs: Virtual Wallet - https://github.com/cheloxnz/Proyecto-Billetera-HB
-## - 🔭 Some of my jobs: Portfolio - https://github.com/cheloxnz/website-portfolio
-## - 🌱 I’m currently learning GatsbyJS, NextJS, Django... 
-## - 💬 Ask me about Javascript, React, Node 
-## - 📫 How to reach me: cheloxnz@gmail.com 
-## - 📫 Web: https://cheloxnz.github.io/website-portfolio/
-## - ⚡ Fun fact: Football, Series, Video Games 
+### - 🔭 Some of my jobs: E-Commerce Shop - https://github.com/cheloxnz/Ecommerce-Tienda
+### - 🔭 Some of my jobs: Virtual Wallet - https://github.com/cheloxnz/Proyecto-Billetera-HB
+### - 🔭 Some of my jobs: Portfolio - https://github.com/cheloxnz/website-portfolio
+### - 🌱 I’m currently learning GatsbyJS, NextJS, Django... 
+### - 💬 Ask me about Javascript, React, Node 
+### - 📫 How to reach me: cheloxnz@gmail.com 
+### - 📫 Web: https://cheloxnz.github.io/website-portfolio/
+### - ⚡ Fun fact: Football, Series, Video Games 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cheloxnz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chelodelvalle/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cheloxnz25/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cheloxnz.github.io/website-portfolio/)  
