@@ -22,9 +22,7 @@ Me gustan los desafíos, el plasmar lo que uno piensa en código. Me desempeño 
 <hr/>
 
 <div>
-<p align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cheloxnz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chelodelvalle/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cheloxnz25/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cheloxnz.github.io/website-portfolio/)  
- </p>
  </div>
 <hr/>
 
