@@ -8,7 +8,7 @@ I like challenges, to translate what one thinks in code. I perform on both front
 ### - 🔭 Some of my jobs: Virtual Wallet - https://github.com/cheloxnz/Proyecto-Billetera-HB
 ### - 🔭 Some of my jobs: Portfolio - https://github.com/cheloxnz/website-portfolio
 ### - 🌱 I’m currently learning GatsbyJS, NextJS... 
-### - 💬 Ask me about Javascript, React, Node 
+### - 💬 Ask me about Javascript, VueJS, React, Node 
 ### - 📫 How to reach me: cheloxnz@gmail.com 
 ### - 📫 Web: https://cheloxnz.github.io/website-portfolio/
 ### - ⚡ Fun fact: Football, Series, Video Games 
